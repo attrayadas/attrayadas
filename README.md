@@ -3,7 +3,8 @@ Hi 👋 My name is Attraya Das
 
 TCSer | Siksha 'O' Anusandhan (Deemed to be University) | B.Tech. Electronics & Communication
 
-* 🌍  I'm based in Kolkata, India
+* ⏱  Timezone: India Standard Time (GMT+5:30)
+* 🌍  I'm based in Kolkata, India
 * ✉️  You can contact me at [attrayaghoshdas@gmail.com](mailto:attrayaghoshdas@gmail.com)
 
 ### Skills
