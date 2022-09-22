@@ -1,7 +1,8 @@
-Hi 👋 My name is Attraya Das
-============================
+<p>
+  <h1 align="center"><b>Hi there, I'm Attraya <alt="" width="30"></h1>
+</p>
 
-TCSer | Siksha 'O' Anusandhan (Deemed to be University) | B.Tech. Electronics & Communication
+<p align="center">TCSer | Siksha 'O' Anusandhan (Deemed to be University) | B.Tech. Electronics & Communication</p>
 
 * ⏱  Timezone: India Standard Time (GMT+5:30)
 * 🌍  I'm based in Kolkata, India
