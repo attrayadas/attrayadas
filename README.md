@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Attraya <alt="" width="30"></h1>
+  <h1 align="center"><b>Hi there, I'm Attraya 🖐 <alt="" width="30"></h1>
 </p>
 
 <p align="center">TCSer | Siksha 'O' Anusandhan (Deemed to be University) | B.Tech. Electronics & Communication</p>
