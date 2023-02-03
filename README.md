@@ -4,12 +4,12 @@
 
 <p align="center">System Engineer at TCS | Experienced Java Developer | Skilled in Java 8, Spring Boot, and Microservices</p>
 
-*System Engineer at TCS for 2+ years
-*Experienced Java developer
-*Proficient in Java, SpringBoot, Microservices
-*Based in Kolkata, India
-*Timezone: India Standard Time (GMT+5:30)
-*Contact: attrayaghoshdas@gmail.com
+* System Engineer at TCS for 2+ years
+* Experienced Java developer
+* Proficient in Java, SpringBoot, Microservices
+* Based in Kolkata, India
+* Timezone: India Standard Time (GMT+5:30)
+* Contact: [attrayaghoshdas@gmail.com](mailto:attrayaghoshdas@gmail.com)
 
 ### Skills
 
