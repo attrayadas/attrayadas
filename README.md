@@ -2,11 +2,14 @@
   <h1 align="center"><b>Hi there, I'm Attraya 🖐 <alt="" width="30"></h1>
 </p>
 
-<p align="center">TCSer | Siksha 'O' Anusandhan (Deemed to be University) | B.Tech. Electronics & Communication</p>
+<p align="center">System Engineer at TCS | Experienced Java Developer | Skilled in Java 8, Spring Boot, and Microservices</p>
 
-* ⏱  Timezone: India Standard Time (GMT+5:30)
-* 🌍  I'm based in Kolkata, India
-* ✉️  You can contact me at [attrayaghoshdas@gmail.com](mailto:attrayaghoshdas@gmail.com)
+*System Engineer at TCS for 2+ years
+*Experienced Java developer
+*Proficient in Java, SpringBoot, Microservices
+*Based in Kolkata, India
+*Timezone: India Standard Time (GMT+5:30)
+*Contact: attrayaghoshdas@gmail.com
 
 ### Skills
 
