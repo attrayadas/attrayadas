@@ -4,8 +4,6 @@
 
 <p align="center">System Engineer at TCS | Experienced Java Developer | Skilled in Java 8, Spring Boot, and Microservices</p>
 
-![dino](https://user-images.githubusercontent.com/96123861/222879003-fb14abd9-9a80-4160-a29c-665c86129214.gif)
-
 * System Engineer at TCS for 2+ years
 * Experienced Java developer
 * Proficient in Java, SpringBoot, Microservices
