@@ -1,38 +1,18 @@
-<p>
-  <h1 align="center"><b>Hi there, I'm Attraya 🖐 <alt="" width="30"></h1>
-</p>
+### Hi there 👋
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt="Attraya Das's LinkedIn" height='30'>](https://www.linkedin.com/in/attrayadas/) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" alt="Attraya Das's Gmail">](mailto:attrayaghoshdas@gmail.com) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" alt="Attraya Das's GitHub">](https://github.com/attrayadas) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/500px.svg" height="30" alt="Attraya Das's 500px">](https://500px.com/p/attrayadas) 
 
-<p align="center">System Engineer at TCS | Experienced Java Developer | Skilled in Java 8, Spring Boot, and Microservices</p>
+Experienced Java Developer with a strong track record in delivering high-quality software solutions. Committed to continuous learning and eager to explore new technologies and tech stacks.
 
-* System Engineer at TCS for 2+ years
-* Experienced Java developer
-* Proficient in Java, SpringBoot, Microservices
-* Based in Kolkata, India
-* Timezone: India Standard Time (GMT+5:30)
-* Contact: [attrayaghoshdas@gmail.com](mailto:attrayaghoshdas@gmail.com)
+Skilled in:
 
-### Skills
+- Backend: Java 8, JEE (Servlet, JSP), JDBC, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
+- Frontend: HTML5, CSS3, Bootstrap
+- Databases: MySQL, Oracle, PostgreSQL, H2, MongoDB
+- Build tools: Maven
+- Version Control: Git & GitHub
+- IDE: Intellij IDEA, VS Code, Eclipse, STS
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/attrayadas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/attrayadas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
+### ⚙️ &nbsp;GitHub Analytics
 
 <a href="http://www.github.com/attrayadas"><img src="https://github-readme-stats.vercel.app/api?username=attrayadas&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="attrayadas's GitHub stats" /></a>
 
