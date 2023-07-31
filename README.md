@@ -10,7 +10,7 @@ Skilled in:
 - Databases: MySQL, Oracle, PostgreSQL, H2, MongoDB
 - Build tools: Maven
 - Virtualization: Docker
-- Infrastructure (Cloud): Azure (Basics)
+- Cloud Services: Microsoft Azure (Basics)
 - Version Control: Git & GitHub
 - IDE: Intellij IDEA, VS Code, Eclipse, STS
 
