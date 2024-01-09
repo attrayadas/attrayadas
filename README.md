@@ -5,16 +5,16 @@ Experienced Java Developer with a strong track record in delivering high-quality
 
 Skilled in:
 
-- Programming Languages: Java 8, 17
-- Frameworks and Libraries: Spring Boot 3, Junit 5, Mockito, Spring Integration
-- Message Brokers: Apache Kafka
-- Front End Technologies: HTML5, CSS3, Angular
-- Databases: Relational- MySQL, Oracle, H2; NoSQL- MongoDB
-- Development Tools: DBeaver, PuTTY, VSCode, IntellijIDEA, Eclipse, Git, Maven, Docker, Postman
-- Operating Systems: Linux, Windows
-- Web Services and Cloud: REST, Microservice Architecture with Spring Cloud, AWS Basic Proficient knowledge
-- Software Development Methodologies: Agile, Waterfall
-- Collaboration: GitHub, Jira, Confluence
+- **Programming Languages:** Java 8, 17
+- **Frameworks and Libraries:** Spring Boot 3, Junit 5, Mockito, Spring Integration
+- **Message Brokers:** Apache Kafka
+- **Front End Technologies:** HTML5, CSS3, Angular
+- **Databases: Relational-** MySQL, Oracle, H2; **NoSQL-** MongoDB
+- **Development Tools:** DBeaver, PuTTY, VSCode, IntellijIDEA, Eclipse, Git, Maven, Docker, Postman
+- **Operating Systems:** Linux, Windows
+- **Web Services and Cloud:** REST, Microservice Architecture with Spring Cloud, AWS Basic Proficient knowledge
+- **Software Development Methodologies:** Agile, Waterfall
+- **Collaboration:** GitHub, Jira, Confluence
 
 ### ⚙️ &nbsp;GitHub Analytics
 
