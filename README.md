@@ -5,14 +5,16 @@ Experienced Java Developer with a strong track record in delivering high-quality
 
 Skilled in:
 
-- Backend: Java 8, JEE (Servlet, JSP), JDBC, Spring MVC, Spring Boot, Hibernate, RESTful web services, JUnit, Mockito, Microservices
-- Frontend: HTML5, CSS3, Bootstrap
-- Databases: MySQL, Oracle, PostgreSQL, H2, MongoDB
-- Build tools: Maven
-- Virtualization: Docker
-- Cloud Services: Microsoft Azure (Basics)
-- Version Control: Git & GitHub
-- IDE: Intellij IDEA, VS Code, Eclipse, STS
+- Programming Languages: Java 8, 17
+- Frameworks and Libraries: Spring Boot 3, Junit 5, Mockito, Spring Integration
+- Message Brokers: Apache Kafka
+- Front End Technologies: HTML5, CSS3, Angular
+- Databases: Relational- MySQL, Oracle, H2; NoSQL- MongoDB
+- Development Tools: DBeaver, PuTTY, VSCode, IntellijIDEA, Eclipse, Git, Maven, Docker, Postman
+- Operating Systems: Linux, Windows
+- Web Services and Cloud: REST, Microservice Architecture with Spring Cloud, AWS Basic Proficient knowledge
+- Software Development Methodologies: Agile, Waterfall
+- Collaboration: GitHub, Jira, Confluence
 
 ### ⚙️ &nbsp;GitHub Analytics
 
